@@ -1,7 +1,11 @@
 edit the code
 catch the ball
 polish the car
-polish the wheels
-refactor the code
-we just made a default arg
+ and wheelspolish the wheels
+the code has been refactoredwe just made a default arg
 Remove spots from carpet
+example added
+example added
+new todo
+edit editlast todo added
+another todo at the end
